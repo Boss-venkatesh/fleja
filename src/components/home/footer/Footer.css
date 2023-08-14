@@ -1,0 +1,42 @@
+.footer{
+    background-color: #000;
+    color: #fff;
+}
+.footer p{
+    color: #fff;
+  }
+.footer .socialIcon i{
+    background: transparent;
+    border: 2px solid #fff;
+  }
+  .socialIcon i {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    margin: 0px 3px 0px 2px;
+    border-radius: 90%;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .footer span{
+    color: #38d16a;
+    margin-bottom: -100px;
+  }
+  .footer .icon{
+    margin-top: 20px;
+    display: flex;
+  }
+  .footer .icon i{
+    color: #38d16a;
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+  }
+  .legal{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    margin-top: 40px;
+    padding: 20px 0;
+  }

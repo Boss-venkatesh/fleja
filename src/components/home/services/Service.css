@@ -1,0 +1,71 @@
+.service{
+    background-color: #f9f8fe;
+   margin-bottom: 50px;
+}
+
+.service-title1{
+    color: #38d16a;
+    text-align: center;
+    margin-top: 50px;
+}
+.service-title2{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.small-card{
+    width: 20rem;
+    margin-left: 14px;
+    margin-top: -40px;
+    
+}
+.card-title{
+    font-size: 25px;
+    padding: 5px;
+    font-weight: 650;
+}
+.card-text{
+    padding: 0px 5px;
+}
+.card{
+    margin-bottom: 30px;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .card{
+        margin-bottom: 20px;
+    }
+    .small-card{
+        width: 90%;
+        margin-left: 25px;
+        margin-top: -40px;
+    }
+    .card-title{
+        font-size: 50px;
+        padding: 5px;
+        font-weight: 650;
+    
+    }
+    .card-text{
+        font-size: 30px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .small-card{
+        width: 20rem;
+        margin-left: 14px;
+        margin-top: -40px;
+        
+    }
+    .card-title{
+        font-size: 25px;
+        padding: 5px;
+        font-weight: 650;
+    }
+    .card-text{
+        padding: 0px 5px;
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,24 @@
+.blog span{
+    opacity: 0.5;
+    font-size: 15px;
+  }
+  .blog{
+    background-color: #f9f8fe;
+  }
+  .blog h5{
+    color: #38d16a;
+  }
+  .blog h1{
+    font-weight: bold;
+  }
+  .blog h2{
+    margin: 20px 0;
+  }
+  .blog a{
+    color: #38d16a;
+    display: block;
+    line-height: 20px;
+  }
+  .blog a .icon{
+    font-size: 15px;
+  }

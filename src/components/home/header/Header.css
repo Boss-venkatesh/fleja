@@ -1,0 +1,27 @@
+/* .logo{
+    margin-left: 120px;
+}
+ul {
+    margin-right: 100px;
+}
+.HeaderIcon{
+    margin:10px 0px 0px 20px;
+    transition: 0.5s;
+  } */
+  .navbar-toggler{
+    float: right;
+  }
+.navbar-nav .nav-item .nav-link{
+    color: #000;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: #38d16a;
+    font-weight: bold;
+}
+
+.HeaderIcon{
+    margin: 10px 0px 0px 20px;
+   
+}
